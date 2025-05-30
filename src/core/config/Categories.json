@@ -151,6 +151,7 @@
             "JWT Sign",
             "JWT Verify",
             "JWT Decode",
+            "JWE Encrypt",
             "JWE Decrypt",
             "Citrix CTX1 Encode",
             "Citrix CTX1 Decode",
